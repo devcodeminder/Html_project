@@ -1,0 +1,43 @@
+
+.slide{
+    margin-top:56px;
+}
+.marvel img{
+    margin-top: 10px;
+}
+.marvel h1{
+    margin-top: 15px;
+}
+.marvel{
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.marvel p{
+    margin-left:30px;
+    margin-right: 30px;
+}
+.parallax{
+    
+    height: 300px;
+   text-align: center;
+   padding: 50px;
+  text-decoration: transparent;
+}
+.content img{
+   
+    margin-top: 10px;
+    text-align: center;
+}
+.content h1{
+   
+    margin-top: 50px;
+}
+footer{
+    height: 70px;
+    background: lightslategray;
+    padding: 20px 50px;
+}
+footer a{
+   color: white;
+}
